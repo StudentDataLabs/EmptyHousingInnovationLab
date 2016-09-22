@@ -1,9 +1,10 @@
 # Empty Housing Innovation Lab
 
+### <b>[Get Your Tickets](https://www.eventbrite.co.uk/e/empty-housing-innovation-lab-tickets-27443479185)</b>
+---
+
 ### Information
 Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is an event being organised by Student Data Labs. The aim of the Lab is to explore how to address the issue of long-term empty properties in the city. 
-
-### <b>[Get Your Tickets](https://www.eventbrite.co.uk/e/empty-housing-innovation-lab-tickets-27443479185)</b>
 
 ### The Problem
 Empty properties are a significant aspect of the housing crisis in London. Despite falling numbers in many boroughs, thousands of homes remain empty across London. 
