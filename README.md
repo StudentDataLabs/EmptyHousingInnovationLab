@@ -7,9 +7,9 @@
 Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is an event being organised by Student Data Labs. Free for university students, the aim of the Lab is to explore how to address the issue of long-term empty properties in the city. 
 
 ### The Problem
-Empty properties are a significant aspect of the housing crisis in London. Despite falling numbers in many boroughs, thousands of homes remain empty across London. 
+Despite falling numbers in many boroughs, thousands of homes remain empty across London. 
 
-Long-term empty housing is defined as property that has remained vacant for over 6 months. In 2015 there were 20,915 long-term vacant homes in London according to Council Tax Base records. With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet. The Lab will focus on these three areas.
+Long-term empty housing is defined as property that has been vacant for over 6 months. In 2015 there were 20,915 long-term vacant homes in London according to Council Tax Base records. With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet. The Lab will focus on these three areas.
 
 The aim of the Empty Housing Innovation Lab is to use data to address this problem. While our work is truly multidisciplinary, our projects are driven by data.
 
