@@ -4,7 +4,7 @@
 ---
 
 ### Event Info
-Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is an event being organised by [Student Data Labs](studentdatalabs.com). Free for university students, the aim of the Lab is to explore how to address long-term empty homes in London and learn real-world data skills. 
+Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is an event being organised by [Student Data Labs](studentdatalabs.com). Free for university students, the aim of the Lab is to explore how to address long-term empty homes in London. 
 
 ### The Problem
 Despite falling numbers in many boroughs, there are thousands of long-term empty properties across London. 
@@ -12,14 +12,14 @@ Despite falling numbers in many boroughs, there are thousands of long-term empty
 In 2015 there were 20,915 long-term vacant homes in London according to Council Tax Base records. Long-term empty housing is defined as property that has been vacant for over 6 months.With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet. The Lab will focus on these three areas as well as the role of other factors such as economic activity and measures of deprivation.
 
 ### The Empty Housing Lab, Saturday 29th October 2016
-The Lab is split into two sections - a Data Workshop and an Innovation Lab. The workshop helps students learn real-world data skills such as data visualisation, open data and programming. The Innovation Lab will draw on multidisciplinary methods and develop data-driven tools to tackle long-term vacant homes.
+The Lab is split into two sections - a Data Workshop and an Innovation Lab. The workshop helps students learn real-world data skills such as data visualisation, open data and programming. The Innovation Lab will draw on multidisciplinary methods and develop data-driven tools to tackle long-term vacant homes. Data Lab Volunteers will have the option to take part in the workshop or the Lab before the two converge in the second part of the event.
 
 Here, you will find [data](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/tree/master/data) and resources for the Lab. Learning materials, which will focus on data visualisation, open data and programming in R, will be added closer to the event on Saturday 29th of October.
 
 ### Student Data Labs
 Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab), and [health inequalities](https://github.com/StudentDataLabs/HealthInnovationLab). 
 
-Student Data Labs works with an interdisciplinary team of students, data scientists, designers, researchers and developers. While our work is truly multidisciplinary, our projects are ultimately driven by data. We also try to connect our Data Lab Volunteers with local organisations. Visit our [website](http://studentdatalabs.com/), [Twitter](https://twitter.com/StudentDataLabs) or [Facebook](https://www.facebook.com/StudentDataLabs) for more info.
+Student Data Labs works with an interdisciplinary team of students, researchers, data scientists and developers. Although our work is multidisciplinary, our projects are ultimately driven by data. We also try to connect our Data Lab Volunteers with local organisations. Visit our [website](http://studentdatalabs.com/), [Twitter](https://twitter.com/StudentDataLabs) or [Facebook](https://www.facebook.com/StudentDataLabs) for more info.
 
 ### Contact
 To get in touch, you can email us <u>studentdatalabs@gmail.com</u>, visit our [website](studentdatalabs.com).
