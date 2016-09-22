@@ -7,6 +7,8 @@ Student Data Labs runs data-driven Innovation Labs for university students to le
 
 The Lab is split into two sections - a Data Workshop and an Innovation Lab. The workshop helps students learn real-world data skills - learning about open data, data visualisation and programming for data science. The Innovation Lab is more experimental, where the aim is to develop ideas and data-driven tools to tackle civic problems.
 
+Here, you will find [data](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/tree/master/data) and resources for the Lab. Learning materials, which will focus on data visualisation, open data and programming in R, will be added closer to the event.
+
 ### The Problem
 Empty properties are a significant aspect of the housing crisis in London. Despite falling numbers in many boroughs, thousands of homes remain empty across London. 
 
