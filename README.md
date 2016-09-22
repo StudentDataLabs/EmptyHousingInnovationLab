@@ -19,7 +19,9 @@ The Lab is split into two sections - a Data Workshop and an Innovation Lab. The 
 Here, you will find [data](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/tree/master/data) and resources for the Lab. Learning materials, which will focus on data visualisation, open data and programming in R, will be added closer to the event.
 
 ### Student Data Labs
-Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle Type 2 Diabetes and health inequalities in Leeds. Student Data Labs works with an interdisciplinary team of students, data scientists, designers, researchers and software developers. We also aim to connect our Data Lab Volunteers with local employers who may be interested in employing them upon graduation. Visit our [website](http://studentdatalabs.com/), [Twitter](https://twitter.com/StudentDataLabs) or [Facebook](https://www.facebook.com/StudentDataLabs) for more info.
+Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab), Type 2 Diabetes and health inequalities in Leeds. 
+
+Student Data Labs works with an interdisciplinary team of students, data scientists, designers, researchers and software developers. We also aim to connect our Data Lab Volunteers with local employers who may be interested in employing them upon graduation. Visit our [website](http://studentdatalabs.com/), [Twitter](https://twitter.com/StudentDataLabs) or [Facebook](https://www.facebook.com/StudentDataLabs) for more info.
 
 ### Contact
 To get in touch, you can email us <u>studentdatalabs@gmail.com</u>, visit our [website](studentdatalabs.com).
