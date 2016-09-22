@@ -1,6 +1,6 @@
 # Empty Housing Innovation Lab
 
-### <b>[Get Your Tickets](https://www.eventbrite.co.uk/e/empty-housing-innovation-lab-tickets-27443479185)</b>
+### <b>[Get Your Tickets](https://www.eventbrite.co.uk/e/empty-housing-innovation-lab-tickets-27443479185) (Free for Students)</b>
 ---
 
 ### Information
