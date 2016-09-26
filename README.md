@@ -9,7 +9,7 @@ Taking place on Saturday October 29th at the London campus of Liverpool Universi
 ### The Problem
 Despite falling numbers in many boroughs, there are thousands of long-term empty properties across London. 
 
-In 2015 there were 20,915 long-term vacant homes in London according to Council Tax Base records. Long-term empty housing is defined as property that has been vacant for over 6 months.With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet. The Lab will focus on these three areas as well as the role of other factors such as economic activity and measures of deprivation.
+In 2015 there were <b>20,915 long-term vacant homes in London</b> according to Council Tax Base records. Long-term empty housing is defined as property that has been vacant for over 6 months.With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet. The Lab will focus on these three areas as well as the role of other factors such as economic activity and measures of deprivation.
 
 Empty Homes, a national campaigning charity, has recently published a report outlining some analysis of the current situation of empty housing in England. This [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is a great resource containing more research info as well as policy and advice for those looking to put an empty home back on the market.
 
