@@ -13,6 +13,6 @@ Dataset | Description | Source | File Type |
 [indices_deprivation_london_2010.xls](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/data/indices_of_deprivation_london_2010.xls) | Deprivation data for London at LSOA and local authority level, 2010. It takes into account a number of factors such as health, poverty and population | [DCLG via London Datastore](http://data.london.gov.uk/dataset/indices-deprivation-2010) | .xls (Excel) |
 
 ### Summary
-The Open Data Table hopefully gives more context to the data we have provided for the Lab. Hopefully it will make things more straightforward for you. 
+The Open Data Table hopefully gives more context to the data we have provided for the Lab. Hopefully it will make things more straightforward for you. Student Data Labs will provide more guidance on using open data in the Empty Housing Lab.
 
 Providing added information about datasets is a hallmark of good open data publishing. You can find more - metadata, licensing, previews and other information - by following the source links. GOV.UK has published a [useful resource](https://www.gov.uk/service-manual/technology/open-data.html) on open data publishing.
