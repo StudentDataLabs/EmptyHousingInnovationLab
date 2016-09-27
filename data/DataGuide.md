@@ -1,8 +1,9 @@
 ## Data Guide
 
-If you're just starting to pick up data skills it can seem a bit overwhelming. We've put together this Data Guide to contextualise these different datasets, making your workflow more straightforward.
+If you're just starting to pick up data skills it can seem a bit overwhelming. We've put together this Data Guide and Open Data Table to contextualise these different datasets.
 
-The table below details the name of the dataset, a description of its contents, a source link and file type
+### Open Data Table
+The Open Data Table details the name of the dataset, a description of its contents, a source link and file type
 
 Dataset | Description | Source | File Type |
 --- | --- | --- | --- |
@@ -11,5 +12,7 @@ long_term_empties_london.csv | This is an extract from the above LT_615.xls file
 indices_deprivation_london_2015.xls | Deprivation data for London at LSOA and local authority level, 2015. It takes into account a number of factors such as health, poverty and population | [DCLG via London Datastore](http://data.london.gov.uk/dataset/indices-of-deprivation-2015) | .xls (Excel) |
 indices_deprivation_london_2010.xls | Deprivation data for London at LSOA and local authority level, 2010. It takes into account a number of factors such as health, poverty and population | [DCLG via London Datastore](http://data.london.gov.uk/dataset/indices-deprivation-2010) | .xls (Excel) |
 
+### Summary
+The Open Data Table hopefully gives more context to the data we have provided for the Lab. Hopefully it will make things more straightforward for you. 
 
-
+Providing added information about datasets is a hallmark of good open data publishing. You can find more - metadata, licensing, previews and other information - by following the source links. GOV.UK has published a [useful resource](https://www.gov.uk/service-manual/technology/open-data.html) on open data publishing.
