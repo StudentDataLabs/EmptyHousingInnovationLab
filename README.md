@@ -7,7 +7,7 @@
 Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is an event being organised by [Student Data Labs](studentdatalabs.com). Free for university students, the aim of the Lab is to explore how to address long-term empty homes in London. 
 
 ### The Problem
-Despite falling numbers in many boroughs, there are many thousands of empty properties across London. In 2015 there were <b>20,915 long-term empty homes in London</b> according to Council Tax Base records. With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet.
+Despite falling numbers in many boroughs, there are many thousands of empty properties across London. In 2015 there were <b>20,915</b> long-term empty homes in London according to data from the [DCLG](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants). With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet.
 
 According to [PropertyRescue.org.uk](http://www.propertyrescue.co.uk/about-property-rescue/home-buyers-news/entryid/1158/empty-homes-in-england/), 78% of British adults believe that the government should do more to tackle empty homes. Bringing homelessness into the equation, Property Rescue goes on to say: "if empty homes were put back into use, there would be the equivalent of eleven homes per [homeless] person registered as being accepted as homeless and in priority need". While this statistic applies to England as a whole, the situation in London is closer to three empty homes per homeless person.
 
