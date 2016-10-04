@@ -4,7 +4,7 @@
 ---
 
 ### Event Info
-Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is an event being organised by [Student Data Labs](studentdatalabs.com). Free for university students, the aim of the Lab is to explore how to address long-term empty homes in London. 
+Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is an event being organised by [Student Data Labs](https://studentdatalabs.com). Free for university students, the aim of the Lab is to explore how to address long-term empty homes in London. 
 
 ### The Problem
 Despite falling numbers in many boroughs, there are many thousands of empty properties across London. In 2015 there were <b>20,915</b> long-term empty homes in London according to data from the [DCLG](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants). With 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea and Barnet.
@@ -26,6 +26,6 @@ Student Data Labs runs data-driven Innovation Labs for university students to le
 Student Data Labs works with an interdisciplinary team of students, researchers, data scientists and developers. Although our work is multidisciplinary, our projects are ultimately driven by data. We also try to connect our Data Lab Volunteers with local organisations. Visit our [website](http://studentdatalabs.com/), [Twitter](https://twitter.com/StudentDataLabs) or [Facebook](https://www.facebook.com/StudentDataLabs) for more info.
 
 ### Contact
-To get in touch, you can email us <u>studentdatalabs@gmail.com</u>, visit our [website](studentdatalabs.com).
+To get in touch, you can email us <u>studentdatalabs@gmail.com</u>, visit our [website](https://studentdatalabs.com).
 
 ![](https://studentdatalabs.files.wordpress.com/2016/01/newlogo4-e1460235034568.png)
