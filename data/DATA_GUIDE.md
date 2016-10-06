@@ -3,7 +3,7 @@
 We've put together this Data Guide and Open Data Table to contextualise the different datasets provided for the Lab.
 
 ### Open Data Table
-The Open Data Table details the name of the dataset, a description of its contents, a source link and the file type. You can find out more information (metadata, licensing etc) by following the source links of each dataset.
+The Open Data Table details the name of the dataset, a brief description of its contents, a source link and the file type. You can find out more information (metadata, licensing etc) by following the source links of each dataset.
 
 Dataset | Description | Source | File Type |
 --- | --- | --- | --- |
