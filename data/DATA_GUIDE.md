@@ -14,6 +14,4 @@ Dataset | Description | Source | File Type |
 [long_term_empties_london.csv](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/data/long_term_empties_london.csv) | This is an extract from the above LT_615.xls file, containing the total number of long-term empty properties in London's local authorities, 2004-2015 | [DCLG via Data.Gov.UK](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) | .csv (Comma Separated Values) |
 
 ### Summary
-Hopefully this guide will make things more straightforward for you. If you're just starting to pick up new data skills it can all seem a bit overwhelming. Student Data Labs will also be providing more guidance on using open data for cleaning, analysis and visualisation.
-
-Including added information about datasets is a hallmark of good open data publishing. [Data Mill North](https://datamillnorth.org/), an open data platform based in Leeds, is a great example of local open data publishing in action.
+Hopefully this guide will make things more straightforward for you. If you're just starting to pick up new data skills it can all seem a bit overwhelming. Student Data Labs will also be providing more guidance on using open data for cleaning, analysis and visualisation. Including added information about datasets is a hallmark of good open data publishing. [Data Mill North](https://datamillnorth.org/), an open data platform based in Leeds, is a great example of local open data publishing in action.
