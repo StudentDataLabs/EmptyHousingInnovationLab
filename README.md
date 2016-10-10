@@ -14,7 +14,7 @@ According to [PropertyRescue.org.uk](http://www.propertyrescue.co.uk/about-prope
 Empty Homes, a national campaigning charity, has recently published a report outlining some analysis of the current situation of empty housing in England. This [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is a great resource for those looking to put an empty home back on the market.
 
 ### The Empty Housing Lab, Saturday 29th October 2016
-The Lab is split into two sections - a Data Workshop and an Innovation Lab. The short Data Workshop enables students to learn real-world data skills in areas such as data visualisation, open data and coding. The Innovation Lab is more experimental, drawing on a variety of disciplines to tackle long-term vacant homes in London. Data Lab Volunteers will have the option to take part in the Data Workshop or the Innovation Lab.
+The Lab is split into two sections - a <b>Data Workshop</b> and an <b>Innovation Lab</b>. The Data Workshop will enable students to learn real-world data skills in areas like data visualisation, analytics and coding. The Innovation Lab is more experimental, drawing on a variety of disciplines to tackle long-term vacant homes using data. Data Lab Volunteers will have the option to take part in the Data Workshop or the Innovation Lab.
 
 Here, you'll find [open data](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/tree/master/data) and learning resources for the Lab. Learning materials, which will focus on data visualisation, mapping, open data and coding with R, will be added closer to the event.
 
