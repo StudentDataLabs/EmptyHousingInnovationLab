@@ -7,7 +7,7 @@
 Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is a [Student Data Labs](https://studentdatalabs.com) event. Free for all university students, the aim of the Lab is to explore how to address empty homes in London. 
 
 ### The Problem
-Empty housing has a detrimental effect on the living environment of local communities. While this is not the case for all vacant dwellings across the UK, it is a major social, economic and environmental waste. Representing many billions in value, empty homes can drive down local property prices.
+Empty housing has a detrimental effect on local communities. While this is not the case for all vacant dwellings across the UK, it's a major social, economic and environmental waste. Representing many billions in value, empty homes can worsen the local living environment and drive down property prices.
 
 Despite falling numbers in many boroughs, thousands of properties remain empty across London. In 2015 there were <b>20,915</b> long-term empty homes in London according to open data from the [DCLG](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants). At 1,318 long-term empty homes, Newham is the worst performing borough in London followed by Kensington & Chelsea.
 
