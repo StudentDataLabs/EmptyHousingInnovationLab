@@ -14,7 +14,7 @@ According to [PropertyRescue.org.uk](http://www.propertyrescue.co.uk/about-prope
 ### The Empty Housing Lab, Saturday 29th October 2016
 The Lab is split into two sections: <b>Data Workshop</b> and an <b>Innovation Lab</b>. 
 
-The <b>Data Workshop</b> will enable students to learn practical data skills in analysis, programming and data visualisation. The <b>Innovation Lab</b> will draw on a variety of disciplines to tackle long-term vacant homes. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
+The Data Workshop will enable students to learn practical data skills in analysis, programming and data visualisation. The Innovation Lab will draw on a variety of disciplines to tackle long-term vacant homes. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
 
 ### Student Data Labs
 Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab), and [health inequalities](https://github.com/StudentDataLabs/HealthInnovationLab). 
