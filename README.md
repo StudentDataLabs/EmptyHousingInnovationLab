@@ -14,7 +14,11 @@ Despite falling numbers in many boroughs, thousands of properties remain empty a
 According to [PropertyRescue.org.uk](http://www.propertyrescue.co.uk/about-property-rescue/home-buyers-news/entryid/1158/empty-homes-in-england/), 78% of British adults believe that the government should do more to tackle empty homes. Bringing homelessness in England into the equation, Property Rescue goes on to state that "if empty homes were put back into use, there would be the equivalent of eleven homes per [homeless] person registered as being accepted as homeless and in priority need".
 
 ### The Empty Housing Lab, Saturday 29th October 2016
-The Lab is split into two sections - a <b>Data Workshop</b> and an <b>Innovation Lab</b>. The Data Workshop will enable students to learn real-world data skills in areas like data visualisation, analysis and coding. The Innovation Lab is more experimental, drawing on a variety of disciplines to tackle long-term vacant homes. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
+The Lab is split into two sections - a <b>Data Workshop</b> and an <b>Innovation Lab</b>. 
+
+The Data Workshop will enable students to learn real-world data skills in areas like data visualisation, analysis and coding. 
+
+The Innovation Lab is more experimental, drawing on a variety of disciplines to tackle long-term vacant homes. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
 
 ### Student Data Labs
 Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab), and [health inequalities](https://github.com/StudentDataLabs/HealthInnovationLab). 
