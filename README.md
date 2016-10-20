@@ -1,11 +1,10 @@
 # Empty Housing Innovation Lab
-
-### [Get Your Tickets](https://www.eventbrite.co.uk/e/empty-housing-innovation-lab-tickets-27443479185)
-
 ---
 Taking place on Saturday October 29th at the London campus of Liverpool University near the Barbican, the Empty Housing Innovation Lab is run by [Student Data Labs](https://studentdatalabs.com). Free for all university students, the aim of the Lab is to explore how to address empty homes in London.
 
 This page will provide you with information about the problem of empty housing in London as well as open data and learning resources for the Lab. Learning resources will be added closer to the event in late October.
+
+### [Get Your Tickets](https://www.eventbrite.co.uk/e/empty-housing-innovation-lab-tickets-27443479185)
 
 ### The Problem
 Empty homes represent billions in monetary value in London. They are also a major social and environmental waste. However, despite falling numbers in many local authorities, thousands of properties remain empty across London and the rest of the UK. Based on open data from the [DCLG](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants), Student Data Labs has found that 1.7% of London's housing stock is empty and 0.6% long-term empty.
