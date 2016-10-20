@@ -7,9 +7,9 @@ Taking place on Saturday October 29th at the London campus of Liverpool Universi
 This page will provide you with information about the problem of empty housing in London as well as open data and learning resources for the Lab. Learning resources will be added closer to the event in late October.
 
 ### The Problem
-Empty housing has a detrimental effect on local communities. While this is not the case for all vacant dwellings across the UK, it can be a major social, economic and environmental waste. Representing billions in monetary value, empty homes worsen the local living environment and drive down property prices. Despite falling numbers in many boroughs, thousands of properties remain empty across London.
+Empty homes represent billions in monetary value in London. They are also a major social and environmental waste. However, despite falling numbers in many local authorities, thousands of properties remain empty across London and the rest of the UK. Based on open data from the [DCLG](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants), Student Data Labs has found that 1.6% of London's housing stock is empty and 0.6% long-term empty.
 
-A national campaigning charity that conducts research into vacant properties in England, [Empty Homes](http://www.emptyhomes.com/) has published a useful resource on the state of empty housing in 2016. The [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is essential reading for anyone interested in taking part in the Empty Housing Lab.
+A national campaigning charity that conducts research into vacant properties in England, [Empty Homes](http://www.emptyhomes.com/) has published a useful resource on the state of empty housing. The [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is essential reading for anyone interested in taking part in the Empty Housing Lab.
 
 ### The Empty Housing Lab, Saturday 29th October 2016
 The Lab is split into two practical, project-driven sections: <b>Data Workshop</b> and an <b>Innovation Lab</b>. We'll also be having talks from researchers at UCL and the Consumer Data Research Centre (CDRC).
@@ -25,6 +25,6 @@ Although students are encouraged to follow their own data projects, there will b
 Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab), and [health inequalities](https://github.com/StudentDataLabs/HealthInnovationLab). 
 
 ### Contact
-To get in touch, you can email us <u>studentdatalabs@gmail.com</u>, visit our [website](https://studentdatalabs.com).
+You can get in touch by emailing us <u>studentdatalabs@gmail.com</u> or visiting our [website](https://studentdatalabs.com).
 
 ![](https://studentdatalabs.files.wordpress.com/2016/01/newlogo4-e1460235034568.png)
