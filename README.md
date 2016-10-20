@@ -22,7 +22,7 @@ Although students are encouraged to follow their own data projects, there will b
 + What is the value of empty housing in the city?
 + What other factors are related to empty housing in London's local authorities?
 
-![](https://studentdatalabs.files.wordpress.com/2016/01/newlogo4-e1460235034568.png) ### Student Data Labs
+### Student Data Labs
 [Student Data Labs](https://studentdatalabs.com) runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab), and [health inequalities](https://github.com/StudentDataLabs/HealthInnovationLab).
 
 ### Contact
