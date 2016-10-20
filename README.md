@@ -12,9 +12,9 @@ A national campaigning charity that conducts research into vacant properties in 
 ### The Empty Housing Lab, Saturday 29th October 2016
 The Lab is split into two practical, project-driven sections: <b>Data Workshop</b> and an <b>Innovation Lab</b>. We'll also be having talks from researchers at UCL and the Consumer Data Research Centre (CDRC).
 
-The short Data Workshop will focus on practical data skills in programming, analysis and data visualisation. The Innovation Lab will take a data-driven approach to tackling long-term vacant homes in London. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
+The short Data Workshop will focus on practical data skills in programming, analysis and visualisation of open data. The Innovation Lab will take a data-driven approach to tackling long-term vacant homes in London. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
 
-Although students are encouraged to follow their own data projects, there will be a few key focus areas to guide the Lab:
+Volunteers are encouraged to follow their own data projects, there will be a few key focus areas to guide the Lab:
 + How many empty homes are there in London and where are they located?
 + What is the value of empty housing in the city?
 + What other factors are related to empty housing in London's local authorities?
