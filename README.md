@@ -9,10 +9,10 @@ This page will provide you with information about the problem of empty housing i
 ### The Problem
 Empty housing has a detrimental effect on local communities. While this is not the case for all vacant dwellings across the UK, it can be a major social, economic and environmental waste. Representing billions in monetary value, empty homes worsen the local living environment and drive down property prices. Despite falling numbers in many boroughs, thousands of properties remain empty across London.
 
-According to [PropertyRescue.org.uk](http://www.propertyrescue.co.uk/about-property-rescue/home-buyers-news/entryid/1158/empty-homes-in-england/), 78% of British adults believe that the government should do more to tackle empty homes. Alongside homelessness, empty housing is one of the most significant symptoms of the housing crisis in England. Property Rescue goes on to state that "if empty homes were put back into use, there would be the equivalent of eleven homes per [homeless] person registered as being accepted as homeless and in priority need".
+Empty Homes, a national campaigning charity that conducts research into vacant properties in England, has published a useful resource on the state of empty housing in 2016. The [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is essential reading for anyone interested in taking part in the Empty Housing Lab.
 
 ### The Empty Housing Lab, Saturday 29th October 2016
-The Lab is split into two practical, project-driven sections: <b>Data Workshop</b> and an <b>Innovation Lab</b>. We'll also be having talks from researchers at UCL and the Consumer Data Research Centre.
+The Lab is split into two practical, project-driven sections: <b>Data Workshop</b> and an <b>Innovation Lab</b>. We'll also be having talks from researchers at UCL and the Consumer Data Research Centre (CDRC).
 
 The short Data Workshop will focus on practical data skills in programming, analysis and data visualisation. The Innovation Lab will take a data-driven approach to tackling long-term vacant homes in London. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
 
