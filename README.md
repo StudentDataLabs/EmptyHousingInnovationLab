@@ -18,8 +18,8 @@ The short Data Workshop will focus on practical data skills in programming, anal
 
 Although students are encouraged to follow their own data projects, there will be a few key focus areas to guide the Lab:
 + How many empty homes are there in London and where are they located?
-+ What is the value of empty homes in the city?
-+ How can we tackle empty housing alongside the issue of homelessness?
++ What is the value of empty housing in the city?
++ What other factors are related to empty housing in London's local authorities?
 
 ### Student Data Labs
 Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab), and [health inequalities](https://github.com/StudentDataLabs/HealthInnovationLab). 
