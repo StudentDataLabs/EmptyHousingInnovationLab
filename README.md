@@ -9,7 +9,7 @@ This page will provide you with information about the problem of empty housing i
 ### The Problem
 Empty housing has a detrimental effect on local communities. While this is not the case for all vacant dwellings across the UK, it can be a major social, economic and environmental waste. Representing billions in monetary value, empty homes worsen the local living environment and drive down property prices. Despite falling numbers in many boroughs, thousands of properties remain empty across London.
 
-Empty Homes, a national campaigning charity that conducts research into vacant properties in England, has published a useful resource on the state of empty housing in 2016. The [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is essential reading for anyone interested in taking part in the Empty Housing Lab.
+A national campaigning charity that conducts research into vacant properties in England, [Empty Homes](http://www.emptyhomes.com/) has published a useful resource on the state of empty housing in 2016. The [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is essential reading for anyone interested in taking part in the Empty Housing Lab.
 
 ### The Empty Housing Lab, Saturday 29th October 2016
 The Lab is split into two practical, project-driven sections: <b>Data Workshop</b> and an <b>Innovation Lab</b>. We'll also be having talks from researchers at UCL and the Consumer Data Research Centre (CDRC).
