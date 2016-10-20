@@ -7,7 +7,7 @@ Taking place on Saturday October 29th at the London campus of Liverpool Universi
 This page will provide you with information about the problem of empty housing in London as well as open data and learning resources for the Lab. Learning resources will be added closer to the event in late October.
 
 ### The Problem
-Empty homes represent billions in monetary value in London. They are also a major social and environmental waste. However, despite falling numbers in many local authorities, thousands of properties remain empty across London and the rest of the UK. Based on open data from the [DCLG](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants), Student Data Labs has found that 1.6% of London's housing stock is empty and 0.6% long-term empty.
+Empty homes represent billions in monetary value in London. They are also a major social and environmental waste. However, despite falling numbers in many local authorities, thousands of properties remain empty across London and the rest of the UK. Based on open data from the [DCLG](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants), Student Data Labs has found that 1.7% of London's housing stock is empty and 0.6% long-term empty.
 
 A national campaigning charity that conducts research into vacant properties in England, [Empty Homes](http://www.emptyhomes.com/) has published a useful resource on the state of empty housing. The [report](http://www.emptyhomes.com/wp-content/uploads/2011/05/Empty-Homes-in-England-Final-September-2016.pdf) is essential reading for anyone interested in taking part in the Empty Housing Lab.
 
