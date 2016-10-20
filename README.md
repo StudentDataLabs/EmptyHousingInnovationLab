@@ -27,5 +27,3 @@ Student Data Labs runs data-driven Innovation Labs for university students to le
 
 ### Contact
 You can get in touch by emailing us <u>studentdatalabs@gmail.com</u> or visiting our [website](https://studentdatalabs.com).
-
-![](https://studentdatalabs.files.wordpress.com/2016/01/newlogo4-e1460235034568.png)
