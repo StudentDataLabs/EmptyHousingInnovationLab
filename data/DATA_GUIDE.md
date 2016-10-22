@@ -1,8 +1,7 @@
 # Data Guide
 
-We've put together this Data Guide and Open Data Table to contextualise the different datasets provided for the Empty Housing Lab. The open data here represents some of the most relevant and current data on empty housing.
+We've put together this Open Data Guide and Open Data Table to contextualise the different datasets provided for both the Data Workshop and the Innovation Lab of the Empty Housing Lab. The open data here represents some of the most relevant and current data on empty housing. We have combined a number of different open datasets here.
 
-## Open Data Tables
 The Open Data Table details the name of the dataset, a brief description of its contents, a source link and the file type. You can find out more information - metadata, licensing and so on - by following the source links.
 
 ### Data Workshop
@@ -11,7 +10,7 @@ The data-workshop folder contains open data that will form part of the of the Da
 Dataset | Description | Source | File Type |
 --- | --- | --- | --- |
 [long_term_empty_2015.csv](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/data/long_term_empties_london.csv) | This is an extract from the LT_615.xls file, containing the total number of long-term empty properties in London's local authorities, 2004-2015. It has been cleaned and reformatted in preparation for the Lab | [DCLG via Data.Gov.UK](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) | .csv (Comma Separated Values) |
-[empty_deprivation_2015.csv](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/data/data-workshop/empty_deprivation_2015.csv) | Combines the Indices of Deprivation 2015 at local authority level with percentages of empty and long-term empty housing. Cleaned and reformatted for the Lab | [DCLG via Data.Gov.UK] | .csv (Comma Separated Values) |
+[empty_deprivation_2015.csv](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/data/data-workshop/empty_deprivation_2015.csv) | Combines the Indices of Deprivation 2015 at local authority level with percentages of empty and long-term empty housing. Cleaned and reformatted for the Lab | [DCLG via London Datastore](http://data.london.gov.uk/dataset/indices-of-deprivation-2015) | .csv (Comma Separated Values) |
 
 ### Innovation Lab
 The Innovation Lab will make use of a variety of open datasets. Below are a few useful resources. The table will be updated continually to reflect new developments.
