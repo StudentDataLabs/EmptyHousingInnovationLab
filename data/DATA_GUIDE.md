@@ -9,6 +9,7 @@ The Open Data Table details the name of the dataset, a brief description of its 
 The data-workshop folder contains open data that will form part of the of the Data Workshop. The two open datasets below will be used in the R workshop on data exploration and modelling. The workshop on Choropleth Mapping in QGIS will require you to download open data - including geographic boundary files - from the [Empty Housing Lab Dropbox folder](https://www.dropbox.com/sh/446pg6rxdao1o2u/AAA7aGhH5zL35JA1k_rKnRSVa?dl=0).
 
 Dataset | Description | Source | File Type |
+--- | --- | --- | --- |
 [long_term_empty_2015.csv](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/data/long_term_empties_london.csv) | This is an extract from the LT_615.xls file, containing the total number of long-term empty properties in London's local authorities, 2004-2015. It has been cleaned and reformatted in preparation for the Lab | [DCLG via Data.Gov.UK](https://www.gov.uk/government/statistical-data-sets/live-tables-on-dwelling-stock-including-vacants) | .csv (Comma Separated Values) |
 [empty_deprivation_2015.csv](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/data/data-workshop/empty_deprivation_2015.csv) | Combines the Indices of Deprivation 2015 at local authority level with percentages of empty and long-term empty housing. Cleaned and reformatted for the Lab | [DCLG via Data.Gov.UK] | .csv (Comma Separated Values) |
 
