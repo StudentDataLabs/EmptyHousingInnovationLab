@@ -16,7 +16,7 @@ The Lab is split into two practical, project-driven sections: <b>Data Workshop</
 
 The short Data Workshop will focus on practical data skills in programming, analysis and visualisation of open data. The Innovation Lab will take a data-driven approach to tackling long-term vacant homes in London. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
 
-Volunteers are encouraged to follow their own data projects, there will be a few key focus areas to guide the Lab:
+Although volunteers are encouraged to follow their own data projects, there will be a few key focus areas:
 + How many empty homes are there in London and where are they located?
 + What is the value of empty housing in the city?
 + What other factors are related to empty housing in London's local authorities?
