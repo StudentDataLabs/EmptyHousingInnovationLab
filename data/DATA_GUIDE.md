@@ -6,7 +6,7 @@ We've put together this Data Guide and Open Data Table to contextualise the diff
 The Open Data Table details the name of the dataset, a brief description of its contents, a source link and the file type. You can find out more information - metadata, licensing and so on - by following the source links.
 
 ### Data Workshop
-The data-workshop folder contains open data that will form part of the of the Data Workshop. The two open datasets below will be used in the R workshop on data exploration and modelling. The workshop on Choropleth Mapping in QGIS will require you to download open data - including geographic boundary files - from the [Empty Housing Lab Dropbox folder](https://www.dropbox.com/sh/446pg6rxdao1o2u/AAA7aGhH5zL35JA1k_rKnRSVa?dl=0).
+The data-workshop folder contains open data that will form part of the of the Data Workshop. The two open datasets below will be used in the on data exploration and modelling with R. The workshop on choropleth mapping with QGIS will require you to download open data - including geographic boundary files - from the Empty Housing Lab QGIS Mapping [Dropbox folder](https://www.dropbox.com/sh/446pg6rxdao1o2u/AAA7aGhH5zL35JA1k_rKnRSVa?dl=0).
 
 Dataset | Description | Source | File Type |
 --- | --- | --- | --- |
