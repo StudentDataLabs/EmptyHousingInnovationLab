@@ -10,9 +10,9 @@ In order to carry out this analysis, you'll need RStudio. The computer labs at t
 
 Student Data Labs has prepared two R tutorials for the Data Workshop. The first, Exploring Empty Housing Data, focuses on exploratory data analysis and data visualisation using R. The second is more advanced and looks at correlation, regression and visualisation. You can access them by following the links below:
 
-1. [Exploring Empty Housing Data](http://rpubs.com/StudentDataLabs/Empty-Housing-Lab-1)
+1. [Exploration of Empty Housing Data](http://rpubs.com/StudentDataLabs/Empty-Housing-Lab-1)
 
-2. [Modelling Empty Housing Data](http://rpubs.com/StudentDataLabs/Empty-Housing-Lab-2)
+2. [Modelling of Empty Housing Data](http://rpubs.com/StudentDataLabs/Empty-Housing-Lab-2)
 
 Volunteers are encouraged to follow along point by point but also to explore the data for themselves. To learn more about R, the following books are useful: [R for Everyone](https://www.amazon.co.uk/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030), [Practical Data Science with R](https://www.amazon.co.uk/Practical-Data-Science-Nina-Zumel/dp/1617291560/ref=sr_1_1?s=books&ie=UTF8&qid=1477691407&sr=1-1&keywords=practical+data+science+with+r) and [R in Action](https://www.amazon.co.uk/Action-Data-Analysis-Graphics/dp/1617291382/ref=sr_1_1?s=books&ie=UTF8&qid=1477691440&sr=1-1&keywords=r+in+action). 
 
