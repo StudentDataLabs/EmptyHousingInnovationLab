@@ -68,7 +68,7 @@ Back in QGIS, select ‘New Print Composer’. Leave the title blank. You’ll s
 
 ![](https://studentdatalabs.files.wordpress.com/2016/10/screen-shot-2016-10-21-at-03-28-38.png)
 
-## Summary
+### Summary of QGIS Workshop
 There you have it, a nice choropleth map showing the percentage of empty homes by local authority in London. As another exercise, try bringing in and mapping other open empty housing data using the same workflow.
 
 In summary, creating a choropleth map is one of the easiest and most common mapping tasks. QGIS can be used to perform many other awesome GIS techniques. If you’re interested in finding out more about QGIS, I would recommend reading the QGIS By Example [book](https://www.amazon.co.uk/QGIS-Example-Alexander-Bruy/dp/1782174672) as well as QGIS Tutorials and Tips [site](http://www.qgistutorials.com/). Thanks to [Steven Bernard](https://www.youtube.com/channel/UCrBM8Ka8HhDAYvQY1VX2P0w/videos), an Interactive Design Editor at the Financial Times, for providing the inspiration for this workshop with two great Youtube videos - you can access [part one](https://www.youtube.com/watch?v=rG6UphZGmg4) and [part two](https://www.youtube.com/watch?v=TN_ltYfQorE).
