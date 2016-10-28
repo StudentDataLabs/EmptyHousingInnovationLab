@@ -16,7 +16,7 @@ For more relevant reading on the application of data science to vacant property 
 ### The Empty Housing Lab, Saturday 29th October 2016
 The Lab is split into two practical, project-driven sections: <b>Data Workshop</b> and an <b>Innovation Lab</b>. We'll also be having talks from researchers at UCL and the Consumer Data Research Centre (CDRC).
 
-The short Data Workshop will focus on building practical data skills using R - a statistical programming language - and QGIS - an open source mapping tool. You can access the learning resources by visiting the 'resources' folder and the open data from the 'data' folder. The Innovation Lab will take a data-driven approach to tackling empty homes in London using open data. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
+The short Data Workshop will focus on building practical data skills using R - a statistical programming language - and QGIS - an open source mapping tool. You can access the [learning resources](https://github.com/StudentDataLabs/EmptyHousingInnovationLab/blob/master/learning-resources/workshop.md) by visiting the 'learning-resources' folder and the open data from the 'data' folder. The Innovation Lab will take a data-driven approach to tackling empty homes in London using open data. Data Lab Volunteers will have the option to take part in the Data Workshop and the Innovation Lab.
 
 Although volunteers are encouraged to follow their own data projects, there will be a few key focus areas for the Innovation Lab:
 + How empty homes are there in London and where are they located?
