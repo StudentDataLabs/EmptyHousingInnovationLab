@@ -6,9 +6,9 @@ This Data Workshop forms part of the Empty Housing Innovation Lab. Student Data 
 ## Workshop - Analysing Empty Housing Data using R
 R is a an open source statistical programming language that's extremely popular with professionals who make use of data. R is considered fairly difficult for beginners but it's great for performing data visualisation, cleaning, mapping and machine learning. However, while these workshops and projects explore some core concepts in R, they are best used as a springboard for more learning and projects.
 
-In order to carry out this analysis, you'll need RStudio. The computer labs at the Empty Housing Lab have RStudio ready installed but you can download it [here](https://www.rstudio.com/products/rstudio/download/). Once you've opened up RStudio, you'll notice four panes - the top left pane is the text editor, the top right is the workspace, the bottom left is the console and the bottom right the workspace where charts are displayed. You'll need to copy the code from the workshops and paste into the console to get the most out of them.
+In order to carry out this analysis, you'll need RStudio. The computer labs at the Empty Housing Lab have RStudio ready installed but you can download it [here](https://www.rstudio.com/products/rstudio/download/). Once you've opened up RStudio, you'll notice four panes - the top left pane is the text editor, the top right is the workspace, the bottom left is the console and the bottom right the workspace where charts are displayed.
 
-Student Data Labs has prepared two R tutorials for the Data Workshop. The first, Exploring Empty Housing Data, focuses on exploratory data analysis and data visualisation using R. The second is more advanced and looks at correlation, regression and visualisation. You can access them by following the links below:
+Student Data Labs has prepared two R tutorials for the Data Workshop. The first, Exploring Empty Housing Data, focuses on exploratory data analysis and data visualisation using R. The second is more advanced and looks at correlation, regression and visualisation. You'll need to copy the code from the workshops and paste into the console to get the most out of them. Access the R workshops by following the links below:
 
 1. [Exploration of Empty Housing Data](http://rpubs.com/StudentDataLabs/Empty-Housing-Lab-1)
 
