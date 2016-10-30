@@ -39,7 +39,7 @@ Open up the empty_london_percentage.csv in Excel and take a look. You’ll notic
 
 Next, since QGIS doesn’t recognise some character formats, you’ll need to make sure it will be able to read our data. Go ahead and open up a text editor. I use Sublime Text for this purpose but any text editor will do. Given that the first two columns contain mostly strings and the last two integers, you’ll simply need to type the following into the editor:
 ```
-string, string, interger, interger
+string, string, integer, integer
 ```
 Save this as <u>empty_london_percentage.csvt</u> in the same location as the empty_london_percentage.csv file.
 
