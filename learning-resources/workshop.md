@@ -17,7 +17,7 @@ Student Data Labs has prepared two R tutorials for the Data Workshop. The first,
 Volunteers are encouraged to follow along point by point but also to explore the data for themselves. To learn more about R, the following books are useful: [R for Everyone](https://www.amazon.co.uk/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030), [Practical Data Science with R](https://www.amazon.co.uk/Practical-Data-Science-Nina-Zumel/dp/1617291560/ref=sr_1_1?s=books&ie=UTF8&qid=1477691407&sr=1-1&keywords=practical+data+science+with+r) and [R in Action](https://www.amazon.co.uk/Action-Data-Analysis-Graphics/dp/1617291382/ref=sr_1_1?s=books&ie=UTF8&qid=1477691440&sr=1-1&keywords=r+in+action). 
 
 ## Workshop - Choropleth Mapping with QGIS
-In this brief tutorial you’ll learn how to create a choropleth map using QGIS. You’ll use open data to create a thematic map displaying empty housing as a percentage of housing stock in London’s local authorities in 2015. Everyone loves a map.
+In this very brief introductory tutorial you’ll learn how to create a choropleth map using QGIS. You’ll use open data to create a thematic map displaying empty housing as a percentage of housing stock in London’s local authorities in 2015. Everyone loves a map.
 
 QGIS is a fantastic open source tool for GIS. The Empty Housing Lab takes place in a computer lab that already has QGIS installed but you can download it from the [QGIS site](http://www.qgis.org/en/site/forusers/download.html).
 
@@ -57,7 +57,7 @@ Let’s design our map.
 2. Select ‘Graduated’ from the drop-down menu
 3. Choose our field: empty_london_percentage_ALL_Empty_2015_Percent
 4. Choose your colour scale with ‘color ramp’. You have a few options here but we’re going to stick with the oranges scale
-5. Below, you’ll see ‘method’. Usually, I use Natural Breaks (Jenks), which classifies the values into the best and most accurate available groups. Alternatively, you can use Pretty Breaks, which are highly popular. We’ll go with the Natural Breaks (Jenks) method as it will give the more accurate map
+5. Below, you’ll see ‘method’. Usually, I use Natural Breaks (Jenks), which classifies the values into the most accurate available groups, or Pretty Breaks, which is highly popular. The methods have their advantages and disadvantages so do some research first. We’ll go with the Natural Breaks (Jenks) method here
 6. Under ‘classes’ you can choose how many ramps. We’ll go for 5. Select ‘Classify’ and ‘OK’
 
 ![](https://studentdatalabs.files.wordpress.com/2016/10/screen-shot-2016-10-21-at-02-55-39.png)
