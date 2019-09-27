@@ -57,7 +57,7 @@ Let’s design our map.
 2. Select ‘Graduated’ from the drop-down menu
 3. Choose our field: empty_london_percentage_ALL_Empty_2015_Percent
 4. Choose your colour scale with ‘color ramp’. You have a few options here but we’re going to stick with the oranges scale
-5. Below, you’ll see ‘method’. Usually, I use Natural Breaks (Jenks), which classifies the values into the most accurate available groups, or Pretty Breaks, which is highly popular. The methods have their advantages and disadvantages so do some research first. We’ll go with the Natural Breaks (Jenks) method here
+5. Below, you’ll see ‘method’. They have their advantages and disadvantages so do some research first. We’ll go with the Natural Breaks (Jenks) method here to illustrate how it works in QGIS but you may be better off with the Pretty Breaks method
 6. Under ‘classes’ you can choose how many ramps. We’ll go for 5. Select ‘Classify’ and ‘OK’
 
 ![](https://studentdatalabs.files.wordpress.com/2016/10/screen-shot-2016-10-21-at-02-55-39.png)
@@ -71,4 +71,4 @@ Back in QGIS, select ‘New Print Composer’. Leave the title blank. You’ll s
 ### Summary of QGIS Workshop
 There you have it, a nice choropleth map showing the percentage of empty homes by local authority in London. As another exercise, try bringing in and mapping other open empty housing data using the same workflow.
 
-In summary, creating a choropleth map is one of the easiest and most common mapping tasks. QGIS can be used to perform many other awesome GIS techniques. If you’re interested in finding out more about QGIS, I would recommend reading the QGIS By Example [book](https://www.amazon.co.uk/QGIS-Example-Alexander-Bruy/dp/1782174672) as well as QGIS Tutorials and Tips [site](http://www.qgistutorials.com/). Thanks to [Steven Bernard](https://www.youtube.com/channel/UCrBM8Ka8HhDAYvQY1VX2P0w/videos), an Interactive Design Editor at the Financial Times, for providing the inspiration for this workshop with two great Youtube videos - you can access [part one](https://www.youtube.com/watch?v=rG6UphZGmg4) and [part two](https://www.youtube.com/watch?v=TN_ltYfQorE).
+In summary, creating a choropleth map is one of the easiest and most common mapping tasks. QGIS can be used to perform many other awesome GIS techniques. If you’re interested in finding out more about QGIS, I would recommend reading the QGIS By Example [book](https://www.amazon.co.uk/QGIS-Example-Alexander-Bruy/dp/1782174672) as well as QGIS Tutorials and Tips [site](http://www.qgistutorials.com/). Thanks to [Steven Bernard](https://www.youtube.com/channel/UCrBM8Ka8HhDAYvQY1VX2P0w/videos), an Interactive Design Editor at the Financial Times, for providing the inspiration for this workshop with two great Youtube videos - you can access [part one](https://www.youtube.com/watch?v=rG6UphZGmg4) and [part two](https://www.youtube.com/watch?v=TN_ltYfQorE) as well as many other QGIS tutorials.
