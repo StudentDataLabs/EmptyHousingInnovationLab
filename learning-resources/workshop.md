@@ -22,10 +22,10 @@ In this very brief introductory tutorial you’ll learn how to create a chorople
 QGIS is a fantastic open source tool for GIS. The Empty Housing Lab takes place in a computer lab that already has QGIS installed but you can download it from the [QGIS site](http://www.qgis.org/en/site/forusers/download.html).
 
 ### Open Data
-You’ll be using open data on empty housing percentages in 2015 - empty_london_percentage.csv - from 2015 and geographic boundary files - lad_london_2011 - for this workshop. You can download the open data for this workshop from this [Dropbox folder](https://www.dropbox.com/sh/446pg6rxdao1o2u/AAA7aGhH5zL35JA1k_rKnRSVa?dl=0). The datasets have been sourced from the DCLG the [UK Data Service](https://census.edina.ac.uk/bds.html). They have been pre-processed for the purposes of this workshop. It combines open data from two sources: official empty housing data and housing stock data by local authority in London.
+You’ll be using open data on empty housing percentages in 2015 - empty_london_percentage.csv - from 2015 and geographic boundary files - lad_london_2011 - for this workshop. You can download the open data for this workshop from the Github repo. The datasets have been sourced from the DCLG and the UK Data Service. They've been pre-processed for the purposes of this workshop. It combines official empty housing data and local authority housing stock data in London.
 
 ### The Workflow
-Download our data. Go to the [Dropox folder](https://www.dropbox.com/sh/446pg6rxdao1o2u/AAA7aGhH5zL35JA1k_rKnRSVa?dl=0) and you'll find several datasets. From here, select each file and 'Download'.
+Download our data. Go to the Github repo and you'll find several datasets.
 
 Open up our Empty Housing Innovation Lab folder and drag the <b>london_lad_2011.shp</b> file you've dowinto QGIS. You’ll see a colourful empty map showing England’s local authority boundaries. You may need to [change the projection](http://docs.qgis.org/2.2/en/docs/user_manual/working_with_projections/working_with_projections.html) to Google Mercator, depending on your QGIS settings.
 
