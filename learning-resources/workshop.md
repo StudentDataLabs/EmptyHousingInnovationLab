@@ -17,17 +17,19 @@ Student Data Labs has prepared two R tutorials for the Data Workshop. The first,
 Volunteers are encouraged to follow along point by point but also to explore the data for themselves. To learn more about R, the following books are useful: [R for Everyone](https://www.amazon.co.uk/Everyone-Advanced-Analytics-Graphics-Addison-Wesley/dp/0321888030), [Practical Data Science with R](https://www.amazon.co.uk/Practical-Data-Science-Nina-Zumel/dp/1617291560/ref=sr_1_1?s=books&ie=UTF8&qid=1477691407&sr=1-1&keywords=practical+data+science+with+r) and [R in Action](https://www.amazon.co.uk/Action-Data-Analysis-Graphics/dp/1617291382/ref=sr_1_1?s=books&ie=UTF8&qid=1477691440&sr=1-1&keywords=r+in+action). 
 
 ## Workshop - Choropleth Mapping with QGIS
-In this very brief introductory tutorial you’ll learn how to create a choropleth map using QGIS. You’ll use open data to create a thematic map displaying empty housing as a percentage of housing stock in London’s local authorities in 2015. Everyone loves a map.
+In this very brief introductory tutorial you’ll learn how to create a choropleth map using QGIS. You’ll use open data to create a thematic map displaying empty housing as a percentage of housing stock in London’s local authorities in 2015.
+
+Note: this workshop was created for an event and the datasets have since been moved!
 
 QGIS is a fantastic open source tool for GIS. The Empty Housing Lab takes place in a computer lab that already has QGIS installed but you can download it from the [QGIS site](http://www.qgis.org/en/site/forusers/download.html).
 
 ### Open Data
-You’ll be using open data on empty housing percentages in 2015 - empty_london_percentage.csv - from 2015 and geographic boundary files - lad_london_2011 - for this workshop. You can download the open data for this workshop from the Github repo. The datasets have been sourced from the DCLG and the UK Data Service. They've been pre-processed for the purposes of this workshop. It combines official empty housing data and local authority housing stock data in London.
+You’ll be using open data on empty housing percentages in 2015 - empty_percentages_2015.csv - from 2015 and geographic boundary files - lad_london_2011 - for this workshop. You can download the open data for this workshop from the event Dropbox folder. The datasets have been sourced from the DCLG and the UK Data Service. They've been pre-processed for the purposes of this workshop. It combines official empty housing data and local authority housing stock data in London.
 
 ### The Workflow
-Download our data. Go to the Github repo and you'll find several datasets.
+Download our data. Go to the event Dropbox folder.
 
-Open up our Empty Housing Innovation Lab folder and drag the <b>london_lad_2011.shp</b> file you've dowinto QGIS. You’ll see a colourful empty map showing England’s local authority boundaries. You may need to [change the projection](http://docs.qgis.org/2.2/en/docs/user_manual/working_with_projections/working_with_projections.html) to Google Mercator, depending on your QGIS settings.
+Open up our Empty Housing Innovation Lab folder and drag the <b>london_lad_2011.shp</b> file into QGIS. You’ll see a map showing England’s local authority boundaries. You may need to [change the projection](http://docs.qgis.org/2.2/en/docs/user_manual/working_with_projections/working_with_projections.html) depending on your QGIS settings.
 
 ![](https://studentdatalabs.files.wordpress.com/2016/10/screen-shot-2016-10-21-at-02-51-08.png)
 
