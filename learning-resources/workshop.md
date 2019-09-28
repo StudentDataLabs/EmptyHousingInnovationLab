@@ -8,7 +8,7 @@ R is a an open source statistical programming language that's extremely popular 
 
 In order to carry out this analysis, you'll need RStudio. The computer labs at the Empty Housing Lab have RStudio ready installed but you can download it [here](https://www.rstudio.com/products/rstudio/download/). Once you've opened up RStudio, you'll notice four panes - the top left pane is the text editor, the top right is the workspace, the bottom left is the console and the bottom right the workspace where charts are displayed.
 
-Student Data Labs has prepared two R tutorials for the Data Workshop. The first, Exploring Empty Housing Data, focuses on exploratory data analysis and data visualisation using R. The second is more advanced and looks at correlation, regression and visualisation. You'll need to copy the code from the workshops and paste into the console to get the most out of them. Access the R workshops by following the links below:
+Student Data Labs has prepared two R tutorials for the Data Workshop. The first, Exploring Empty Housing Data, focuses on exploratory data analysis and data visualisation using R. The second introductory tutorial is more advanced and looks at correlation, regression and visualisation. You'll need to copy the code from the workshops and paste into the console to get the most out of them. Access the R workshops by following the links below:
 
 1. [Exploration of Empty Housing Data](http://rpubs.com/StudentDataLabs/Empty-Housing-Lab-1)
 
