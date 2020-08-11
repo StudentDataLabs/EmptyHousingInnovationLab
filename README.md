@@ -21,3 +21,5 @@ Although volunteers are encouraged to create their own data projects, there will
 
 ### Student Data Labs
 [Student Data Labs](https://studentdatalabs.com) runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past we've focused on [road casualties](https://github.com/StudentDataLabs/VisionZeroInnovationLab) and [health inequalities](https://github.com/StudentDataLabs/HealthInnovationLab).
+
+![](https://studentdatalabs.files.wordpress.com/2016/01/newlogo4-e1460235034568.png)
